@@ -1,0 +1,20 @@
+{
+  "name": "btc_adress_gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alex-mibii",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.1",
+    "create-hash": "^1.2.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "hdkey": "^2.1.0"
+  }
+}
